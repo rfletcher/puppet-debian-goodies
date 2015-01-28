@@ -1,0 +1,6 @@
+name         'rfletcher-debian-goodies'
+version      '0.0.1'
+license      'MIT License'
+summary      'A Puppet module for Debian Goodies'
+description  'Install or remove Debian Goodies'
+project_page 'https://github.com/rfletcher/puppet-debian-goodies'
